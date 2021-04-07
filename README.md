@@ -1,3 +1,2 @@
 # WPFForm
-Hy, This is my random learning process.
-Thank you.
+Using linq and entityframeworkcore to manage relational database.
